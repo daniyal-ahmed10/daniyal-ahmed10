@@ -2,7 +2,7 @@
 
 🎓 Studying Computer Science at UCR.
 
-🔨 Experienced in C++, Python, and LC-3 Assembly.
+🔨 Experienced in C++, and Python
 
 🧩 Passionate about algorithms, data structures, and system-level programming.
 
