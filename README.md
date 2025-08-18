@@ -4,7 +4,7 @@
 
 🔨 Experienced in C++ and Python
 
-🧩 Passionate about algorithms, data structures, and system-level programming.
+🧩 Passionate about creating propjects that solve real world problems while expanding my knowledge.
 
 🌐 Currently building a Tax Payment Gateway that integrates payroll systems with EFTPS.
 
