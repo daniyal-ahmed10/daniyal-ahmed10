@@ -1,6 +1,6 @@
 ## Hi I'm Daniyal 👋
 
-🎓 Studying Computer Science at UCR.
+🎓 Studying Computer Science at UC Riverside.
 
 🔨 Experienced in C++ and Python
 
