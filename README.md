@@ -6,7 +6,7 @@
 
 🧩 Passionate about creating propjects that solve real world problems while expanding my knowledge.
 
-🌐 Currently building a Tax Payment Gateway that integrates payroll systems with EFTPS.
+🌐 Currently building a Premier League Predictionf model that forecasts match outcomes and team standings.
 
 🤝 Board member of ACM (Association for Computing Machinery), focusing on professional development and industry engagement.
 
