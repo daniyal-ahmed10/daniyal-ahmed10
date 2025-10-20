@@ -4,7 +4,7 @@
 
 🔨 Experienced in C++ and Python
 
-🧩 Passionate about creating propjects that solve real world problems while expanding my knowledge.
+🧩 Passionate about creating projects that solve real world problems while expanding my knowledge.
 
 🌐 Currently building a Premier League Prediction model that forecasts match outcomes and team standings.
 
