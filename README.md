@@ -1,4 +1,4 @@
-## Hi I'm Daniyal 👋
+# Hi I'm Daniyal 👋
 
 🎓 Studying Computer Science at UC Riverside.
 
