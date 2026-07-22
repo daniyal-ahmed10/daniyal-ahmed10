@@ -6,7 +6,7 @@
 
 🧩 Passionate about creating projects that solve real world problems while expanding my knowledge.
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
