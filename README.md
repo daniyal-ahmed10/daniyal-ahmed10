@@ -4,7 +4,7 @@
 
 🔨 Experienced in C++ and Python
 
-🧩 Passionate about creating projects that solve real world problems while expanding my knowledge.
+🧩 Passionate about building projects that solve real world problems, or that I just find fun to build!
 
 ## 💻 Tech Stack:
 
