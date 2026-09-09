@@ -1,8 +1,6 @@
 # Hi I'm Daniyal 👋
 
-🎓 Studying Computer Science at UC Riverside.
-
-🧩 Passionate about building projects that solve real world problems, or that I just find fun to build!
+🧑‍💻 Just here building things that seem interesting
 
 ## 💻 Tech Stack:
 
