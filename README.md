@@ -1,6 +1,6 @@
 # Hi I'm Daniyal 👋
 
-🧑‍💻 Just here building things that seem interesting
+Just here building things that seem interesting ._.  :]  ;-)
 
 ## 💻 Tech Stack:
 
