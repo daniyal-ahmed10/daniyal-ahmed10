@@ -2,8 +2,6 @@
 
 🎓 Studying Computer Science at UC Riverside.
 
-🔨 Experienced in C++ and Python
-
 🧩 Passionate about building projects that solve real world problems, or that I just find fun to build!
 
 ## 💻 Tech Stack:
